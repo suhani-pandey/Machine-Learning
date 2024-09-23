@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a548bcf9-77f4-4be4-b01d-4e1096bea80d" name="Changes" comment="two tasks done of airbnb">
-      <change beforePath="$PROJECT_DIR$/A1_AirBnb/1. Getting started - Copenhagen Airbnb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/A1_AirBnb/1. Getting started - Copenhagen Airbnb.ipynb" afterDir="false" />
+    <list default="true" id="a548bcf9-77f4-4be4-b01d-4e1096bea80d" name="Changes" comment="regression part is done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;suhani-pandey&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/suhani-pandey/Machine-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;d31bce3a-5893-48e7-b37d-2353ee7e44bd&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -42,9 +54,15 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Sem6\MAL\Classroom\Regression\winequality" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,7 +83,25 @@
       <workItem from="1725609257023" duration="86000" />
       <workItem from="1725704962759" duration="1990000" />
       <workItem from="1725721925933" duration="1075000" />
-      <workItem from="1725723783753" duration="15362000" />
+      <workItem from="1725723783753" duration="44378000" />
+      <workItem from="1726045099734" duration="2333000" />
+      <workItem from="1726134786769" duration="27000" />
+      <workItem from="1726139183275" duration="3855000" />
+      <workItem from="1726214958483" duration="445000" />
+      <workItem from="1726215440457" duration="2000" />
+      <workItem from="1726243388219" duration="20000" />
+      <workItem from="1726249216909" duration="2150000" />
+      <workItem from="1726313607871" duration="4063000" />
+      <workItem from="1726321138099" duration="1941000" />
+      <workItem from="1726481678522" duration="9120000" />
+      <workItem from="1726566798784" duration="41000" />
+      <workItem from="1726569279271" duration="726000" />
+      <workItem from="1726571707822" duration="1969000" />
+      <workItem from="1726573713632" duration="2967000" />
+      <workItem from="1726590690900" duration="2601000" />
+      <workItem from="1726600975208" duration="2450000" />
+      <workItem from="1726745633620" duration="2747000" />
+      <workItem from="1726920054357" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="introductory part">
       <option name="closed" value="true" />
@@ -107,7 +143,47 @@
       <option name="project" value="LOCAL" />
       <updated>1725831269543</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="map updated">
+      <option name="closed" value="true" />
+      <created>1725831430472</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725831430472</updated>
+    </task>
+    <task id="LOCAL-00007" summary="boxplots created">
+      <option name="closed" value="true" />
+      <created>1725833710753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725833710753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first assignment completion process">
+      <option name="closed" value="true" />
+      <created>1726574983231</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726574983231</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first assignment completion process">
+      <option name="closed" value="true" />
+      <created>1726574999399</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726574999399</updated>
+    </task>
+    <task id="LOCAL-00010" summary="regression part is done">
+      <option name="closed" value="true" />
+      <created>1726603462436</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726603462436</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +206,10 @@
     <MESSAGE value="deleted file" />
     <MESSAGE value="update file" />
     <MESSAGE value="two tasks done of airbnb" />
-    <option name="LAST_COMMIT_MESSAGE" value="two tasks done of airbnb" />
+    <MESSAGE value="map updated" />
+    <MESSAGE value="boxplots created" />
+    <MESSAGE value="first assignment completion process" />
+    <MESSAGE value="regression part is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="regression part is done" />
   </component>
 </project>
